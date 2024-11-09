@@ -1,0 +1,9 @@
+params= {
+    'tol': 0.01,
+    'solver': 'saga', 
+    'random_state': 42,
+    'positive': False,
+    'max_iter': None,
+    'fit_intercept': True, 
+    'copy_X': False,
+    'alpha': 0.005298316906283708}
